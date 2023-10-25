@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    background-image: url('../images/bg.png');
+    background-image: url('https://sircle-rnd.github.io/latihan-html-css/assets/images/bg.png');
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
